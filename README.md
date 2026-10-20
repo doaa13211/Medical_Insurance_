@@ -49,6 +49,4 @@ Results
 
 The two regression models are compared using MAE, RMSE, and R² Score. The model with the lower RMSE is selected as the best-performing model on the test set.
 
-Author
 
-Doaa Mohamed
